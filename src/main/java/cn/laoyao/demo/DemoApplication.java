@@ -15,7 +15,6 @@ public class DemoApplication {
         System.out.println("push test");
         //啊啊啊啊啊啊啊啊啊啊啊啊
 
-        // 啦啦啦啦啦绿
     }
 
 }
