@@ -12,6 +12,7 @@ public class DemoApplication {
         //allajadddddddddddojadfafd
         System.out.println("master commit");
         System.out.println("ice commit");
+        System.out.println("push test");
     }
 
 }
